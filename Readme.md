@@ -6,6 +6,8 @@ Mayer, Balasubramanian, Mora, Walczak : "How a well adapted immune system is org
 
 It allows reproduction of all numerical results reported in the manuscript.
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.16796.svg)](http://dx.doi.org/10.5281/zenodo.16796)
+
 ## Dependencies
 
 The code is written in Python and depends on a number of numerical and scientific libraries.
