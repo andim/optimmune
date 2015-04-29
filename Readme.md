@@ -2,7 +2,7 @@
 
 This repository contains the code associated with the manuscript
 
-Mayer, Balasubramanian, Mora, Walczak : "How a well adapted immune system is organized"
+Mayer, Balasubramanian, Mora, Walczak : [How a well adapted immune system is organized](http://dx.doi.org/10.1073/pnas.1421827112), PNAS 2015
 
 It allows reproduction of all numerical results reported in the manuscript.
 
