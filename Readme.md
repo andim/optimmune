@@ -39,3 +39,4 @@ Here the * is a placeholder for the specific filenames. Note: As most of the sim
 ## License
 
 The source code is freely available under an MIT license, unless otherwise noted within a file.
+The plots are licensed under a Creative commons attributions license (CC-BY).
